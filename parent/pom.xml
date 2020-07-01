@@ -60,7 +60,7 @@
         <mina.version>2.0.4</mina.version>
         <shiro.version>1.2.3</shiro.version>
         <guava.version>18.0</guava.version>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <jsch.version>0.1.50</jsch.version>
 
         <!-- web util -->
