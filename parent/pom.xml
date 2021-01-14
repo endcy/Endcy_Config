@@ -52,7 +52,7 @@
         <commons-pool.version>1.5.4</commons-pool.version>
         <commons-logging.version>1.2</commons-logging.version>
         <!-- util lib -->
-        <poi.version>3.12</poi.version>
+        <poi.version>4.1.2</poi.version>
         <freemarker.version>2.3.22</freemarker.version>
         <jackson.version>2.5.3</jackson.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
