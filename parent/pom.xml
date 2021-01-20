@@ -54,7 +54,7 @@
         <!-- util lib -->
         <poi.version>3.12</poi.version>
         <freemarker.version>2.3.22</freemarker.version>
-        <jackson.version>2.5.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
         <httpclient.version>4.3.3</httpclient.version>
         <mina.version>2.0.4</mina.version>
