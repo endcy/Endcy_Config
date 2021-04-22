@@ -58,7 +58,7 @@
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
         <httpclient.version>4.3.3</httpclient.version>
         <mina.version>2.0.4</mina.version>
-        <shiro.version>1.2.3</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <guava.version>18.0</guava.version>
         <quartz.version>2.2.1</quartz.version>
         <jsch.version>0.1.50</jsch.version>
